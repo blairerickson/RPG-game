@@ -19,7 +19,7 @@ Code uses mutliple libraries including:
 
 - Sprite library used to build Photoshop animation templates downloaded from Spriters-Resource.
 
-- Indiana Jones sprites from archives for Lucasfilm games Indiana Jones and His Desktop Adventures as well as the 1989 Lucasfilm adventure game classic Indiana Jones and the Last Crusade.
+- Indiana Jones spritesheets from archives for Lucasfilm games Indiana Jones and His Desktop Adventures as well as the 1989 Lucasfilm adventure game classic Indiana Jones and the Last Crusade.
  
 - JQuery and Bootstrap are not used as the game is not mantipulating within the DOM very well when added. Planned future expansion would mix a 4-div column with content that displayeda graphic of the player's face, health, attacks recevied, and remained on screen as scenes within game area are refreshed. I ran out of time to build a player health model for this alpha version.
 
