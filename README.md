@@ -11,9 +11,9 @@ Code uses mutliple libraries including:
 
 - PixiJS .v4 which handles the graphics display in javascript.
 
-- An open source fork of the Role Playing Game Maker .VW Ace project skeleton from Github for player movement.
+- fork of the Open source Role Playing Game Maker .VW Ace project skeleton template from Github for X,Y pathfinding, maps, level transporting, stat variable framework, player movement. 
 
-- Javascript plugins for VE_Basic Module and VR_CharacterFrames to handle displaying sprite animations.
+- Victor Engine Javascript plugins  VE_Basic Module and VR_CharacterFrames to handle displaying sprite animations.
 
 - Custom built simple animation hack on top of the framework to create the 14 frame Indy vs. Opponent cartoon effect.
 
@@ -22,6 +22,8 @@ Code uses mutliple libraries including:
 - Indiana Jones spritesheets from archives for Lucasfilm games Indiana Jones and His Desktop Adventures as well as the 1989 Lucasfilm adventure game classic Indiana Jones and the Last Crusade.
  
 - JQuery and Bootstrap are not used as the game is not mantipulating within the DOM very well when added. Planned future expansion would mix a 4-div column with content that displayeda graphic of the player's face, health, attacks recevied, and remained on screen as scenes within game area are refreshed. I ran out of time to build a player health model for this alpha version.
+
+- custom font is Adventure by Pixel Saga
 
 # What's next version?
 
