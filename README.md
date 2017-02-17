@@ -11,12 +11,17 @@ Code uses mutliple libraries including:
 
 - PixiJS .v4 which handles the graphics display in javascript.
 https://github.com/pixijs
-- fork of the Open source Role Playing Game Maker .VW Ace project skeleton template from Github for X,Y pathfinding, maps, level transporting, stat variable framework, player movement. 
+- fork of open source Role Playing Game Maker v. MW Ace project skeleton template from Github for X,Y pathfinding, maps, level transporting, stat variable framework, player movement. 
 https://github.com/rpgmaker
+https://rpgmakermv.co/resources/
+https://rpgmakermv.co/threads/creating-dialogue-using-javascript.3327/
 
 - Victor Engine VX Scripts Javascript plugins  VE_Basic Module and VR_CharacterFrames to handle displaying sprite animations.
 https://github.com/bsides/rpgvxace-scripts/blob/master/victor-engine/field/ve-fixed-parallax.rb
-https://victorenginescripts.wordpress.com
+https://drive.google.com/file/d/0B0cSp2lASM9wV1d0cFBtZWtfZEk/view
+
+- menu select uses VXace alternate menu systems scripts
+https://rpgmaker.net/scripts/rmvxace/menusystems/
 
 - Custom built simple animation hack on top of the framework to create the 14 frame Indy vs. Opponent cartoon effect.
 
