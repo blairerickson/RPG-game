@@ -9,6 +9,10 @@ RPG game javascript - "Indiana Jones and the Roleplaying Game of Doom"
 
 
 Code uses mutliple libraries including: 
+
+
+- JQuery 
+
 - PixiJS .v4 which handles the graphics display in javascript.
 
 - An open source fork of the Role Playing Game Maker .VW Ace project skeleton from Github for player movement
