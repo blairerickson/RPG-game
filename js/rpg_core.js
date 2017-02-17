@@ -564,7 +564,7 @@ Bitmap.prototype.initialize = function(width, height) {
      * @property fontFace
      * @type String
      */
-    this.fontFace = 'GameFont';
+    this.fontFace = 'gamefont';
 
     /**
      * The size of the font in pixels.
