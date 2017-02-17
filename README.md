@@ -10,9 +10,6 @@ RPG game javascript - "Indiana Jones and the Roleplaying Game of Doom"
 
 Code uses mutliple libraries including: 
 
-
-- JQuery 
-
 - PixiJS .v4 which handles the graphics display in javascript.
 
 - An open source fork of the Role Playing Game Maker .VW Ace project skeleton from Github for player movement
@@ -24,3 +21,8 @@ Code uses mutliple libraries including:
 - Sprite library used to build Photoshop animation templates downloaded from Spriters-Resource 
 
 - Indiana Jones sprites from archives for Lucasfilm games Indiana Jones and His Desktop Adventures as well as the 1989 Lucasfilm adventure game classic Indiana Jones and the Last Crusade
+ 
+- JQuery and Bootstrap are not used as the game is not mantipulating within the DOM very well when added. Planned future expansion would mix <div> content that displayed player health, attacks recevied, and remained on screen as scenes within game area are refreshed.
+
+
+
