@@ -10,14 +10,17 @@ RPG game javascript - "Indiana Jones and the Roleplaying Game of Doom"
 Code uses mutliple libraries including: 
 
 - PixiJS .v4 which handles the graphics display in javascript.
-
+https://github.com/pixijs
 - fork of the Open source Role Playing Game Maker .VW Ace project skeleton template from Github for X,Y pathfinding, maps, level transporting, stat variable framework, player movement. 
+https://github.com/rpgmaker
 
 - Victor Engine Javascript plugins  VE_Basic Module and VR_CharacterFrames to handle displaying sprite animations.
+https://github.com/bsides/rpgvxace-scripts/blob/master/victor-engine/field/ve-fixed-parallax.rb
 
 - Custom built simple animation hack on top of the framework to create the 14 frame Indy vs. Opponent cartoon effect.
 
 - Sprite library used to build Photoshop animation templates downloaded from Spriters-Resource.
+https://www.spriters-resource.com
 
 - Indiana Jones spritesheets from archives for Lucasfilm games Indiana Jones and His Desktop Adventures as well as the 1989 Lucasfilm adventure game classic Indiana Jones and the Last Crusade.
  
