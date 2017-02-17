@@ -7,7 +7,7 @@ RPG game javascript - "Indiana Jones and the Roleplaying Game of Doom"
 
 - Occasionally background music file in m4a format will not play. Compressed to around 1 MB and it appears to have resolved bug.
 
-Code uses mutliple libraries including: 
+# Code libraries included and used to create:
 
 - PixiJS .v4 which handles the graphics display in javascript.
 https://github.com/pixijs
