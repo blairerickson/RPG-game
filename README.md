@@ -14,8 +14,9 @@ https://github.com/pixijs
 - fork of the Open source Role Playing Game Maker .VW Ace project skeleton template from Github for X,Y pathfinding, maps, level transporting, stat variable framework, player movement. 
 https://github.com/rpgmaker
 
-- Victor Engine Javascript plugins  VE_Basic Module and VR_CharacterFrames to handle displaying sprite animations.
+- Victor Engine VX Scripts Javascript plugins  VE_Basic Module and VR_CharacterFrames to handle displaying sprite animations.
 https://github.com/bsides/rpgvxace-scripts/blob/master/victor-engine/field/ve-fixed-parallax.rb
+https://victorenginescripts.wordpress.com
 
 - Custom built simple animation hack on top of the framework to create the 14 frame Indy vs. Opponent cartoon effect.
 
